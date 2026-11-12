@@ -1,0 +1,4 @@
+﻿Codigo_Venda;Data_Emissao;Loja;Cliente;CPF;Item;Departamento;Qtd;Vlr_Unitario;Status
+VND-3001;2026-03-11;curitiba - batel;lucas martins da rocha;111.444.777-35;macbook air m3 16gb;informática;1;R$ 8.999,00;Pago
+VND-3002;16/03/2026;Curitiba - Batel;Fernanda Lima de Souza;39053344705;Dock Station USB-C Duplo HDMI;Periféricos;3;420,00;Concluido
+VND-3003;17/03/2026;Curitiba - Batel;Marcos Vinicius Pereira;52998224725;Webcam Full HD 1080p;Periféricos;0;310,00;Pago
